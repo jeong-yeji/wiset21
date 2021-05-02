@@ -1,10 +1,11 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=Ex03_AnnotationDI
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=Ex04_WebBasic
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.4.5
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.study
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=Ex03_AnnotationDI
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=Ex04_WebBasic
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.study.springboot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=war
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=GRADLE
