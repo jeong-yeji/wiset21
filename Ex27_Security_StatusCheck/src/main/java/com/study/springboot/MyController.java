@@ -9,7 +9,7 @@ public class MyController {
 
 	@RequestMapping("/")
 	public @ResponseBody String root() throws Exception {
-		return "Security (3)";
+		return "Security Status Check";
 	}
 
 	@RequestMapping("/guest/welcome")
